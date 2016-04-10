@@ -1,0 +1,23 @@
+#!/usr/bin/env sh
+
+function pause(){
+   read -p "$*"
+}
+
+CURRENT=`dirname $0`
+
+function check_and_ln(){
+    SOURCE=$1
+    TARGET=$2
+    if [[ -e "$SOURCE" ]]; then
+        ln -s "$SOURCE" "$TARGET"  
+    else
+        echo "$SOURCE not exist, please check"  
+    fi
+}
+
+check_and_ln "$CURRENT/Sublime Text 3" "$HOME/Library/Application Support"
+check_and_ln "$CURRENT/Eudb_en" "$HOME/Library/Eudb_en"
+
+
+pause 'Press [Enter] key to continue...'
