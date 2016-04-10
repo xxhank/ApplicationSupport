@@ -1,27 +1,27 @@
 <application>
   <component name="StatisticsApplicationUsages">
-    <group name="Git">
-      <project id="Tests" values="config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.ssh.enabled" collectionTime="1460295101776" />
-      <project id="Test3" values="config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.ssh.enabled,data.remote.branches.count.1,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,data.remotes.in.project.1" collectionTime="1460298390806" />
-    </group>
-    <group name="vcs">
-      <project id="Test3" values="Git" collectionTime="1460298390782" />
-    </group>
     <group name="JavaScript versions">
       <project id="Tests" values="ECMAScript 5.1" collectionTime="1460295101833" />
-      <project id="Test3" values="ECMAScript 5.1" collectionTime="1460298390856" />
-    </group>
-    <group name="file-type">
-      <project id="Tests" values="PLAIN_TEXT,JavaScript" collectionTime="1460295101772" />
-      <project id="Test3" values="YAML,PLAIN_TEXT,CoffeeScript,Native,JavaScript,DTD,C++,PATCH,CSS,SourceMap,ARCHIVE,ESLint,XML,Handlebars/Mustache,JSON,Images,JSHint,HTML,UNKNOWN,JSCS,Jade" collectionTime="1460298390802" />
+      <project id="Test3" values="ECMAScript 5.1" collectionTime="1460300056235" />
     </group>
     <group name="module type">
       <project id="Tests" values="WEB_MODULE" collectionTime="1460295101759" />
-      <project id="Test3" values="WEB_MODULE" collectionTime="1460298390782" />
+      <project id="Test3" values="WEB_MODULE" collectionTime="1460300056152" />
+    </group>
+    <group name="vcs">
+      <project id="Test3" values="Git" collectionTime="1460300056152" />
+    </group>
+    <group name="file-type">
+      <project id="Tests" values="PLAIN_TEXT,JavaScript" collectionTime="1460295101772" />
+      <project id="Test3" values="JavaScript,PLAIN_TEXT,ARCHIVE,Handlebars/Mustache,JSON,SourceMap,Images,DTD,YAML,CoffeeScript,Native,ESLint,CSS,C++,Jade,XML,UNKNOWN,JSCS,PATCH,JSHint,HTML" collectionTime="1460300056172" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="Tests" values="Project,Project" collectionTime="1460295101833" />
-      <project id="Test3" values="Project,Project,Project" collectionTime="1460298390856" />
+      <project id="Test3" values="Project,Project,Project" collectionTime="1460300056235" />
+    </group>
+    <group name="Git">
+      <project id="Tests" values="config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.ssh.enabled" collectionTime="1460295101776" />
+      <project id="Test3" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.save.policy.STASH,data.local.branches.count.1,config.warn.about.detached.enabled,data.remote.branches.count.1,config.warn.about.crlf.enabled,config.ssh.enabled,config.force.push.enabled" collectionTime="1460300056178" />
     </group>
   </component>
   <component name="UsageTrigger">
