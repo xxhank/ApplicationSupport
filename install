@@ -6,18 +6,25 @@ function pause(){
 
 CURRENT=`dirname $0`
 
-function check_and_ln(){
-    SOURCE=$1
-    TARGET=$2
+function link_to_home(){
+    NAME="$1"
+    SOURCE="$CURRENT/$NAME"
+    TARGET="$HOME/$2"
     if [[ -e "$SOURCE" ]]; then
-        ln -s "$SOURCE" "$TARGET"  
+
+        if [[ -e "$TARGET/$NAME" ]]; then
+            echo "\"$TARGET/$NAME\" aleady exist"
+        else
+            echo "\"$SOURCE\" -> \"$TARGET\""
+            ln -s "$SOURCE" "$TARGET"  
+        fi
     else
         echo "$SOURCE not exist, please check"  
     fi
 }
 
-check_and_ln "$CURRENT/Sublime Text 3" "$HOME/Library/Application Support"
-check_and_ln "$CURRENT/Eudb_en" "$HOME/Library/Eudb_en"
-
+link_to_home "Sublime Text 3"       "Library/Application Support"
+link_to_home "Eudb_en"              "Library"
+link_to_home "WebStorm2016.1"       "Preferences"
 
 pause 'Press [Enter] key to continue...'
