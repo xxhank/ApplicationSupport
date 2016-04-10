@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Codecs33",
+		"ConvertToUTF8",
+		"HTML-CSS-JS Prettify",
+		"Package Control",
+		"Pretty Ruby",
+		"RegReplace",
+		"Ruby Completions",
+		"Ruby Debugger",
+		"SublimeLinter-contrib-swiftlint",
+		"Swift"
+	]
+}

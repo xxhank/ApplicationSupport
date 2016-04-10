@@ -1,0 +1,15 @@
+[
+    // Chained replacements in one command
+    {
+        "caption": "Reg Replace: Convert TD to excel",
+         "command": "reg_replace",
+         "args": {"replacements": 
+            [
+                "merge_to_oneline",
+                "replace_tr_to_newline",
+                "replace_td_to_tab",
+                "replace_other_tag"
+            ]
+        }
+    },
+]

@@ -1,0 +1,28 @@
+{
+    "replacements":{
+        "replace_tr_to_newline":{
+            "find":"\\[/tr\\]",
+            "replace":"\n",
+            "greedy": true,
+            "case": true
+        },
+        "replace_td_to_tab":{
+             "find":"\\[/td\\]",
+            "replace":"\\t",
+            "greedy": true,
+            "case": true
+        },
+        "replace_other_tag":{
+            "find":"\\[.*?\\]",
+            "replace":"",
+            "greedy":true,
+            "case":true
+        },
+        "merge_to_oneline":
+        {
+            "find":"\\s"
+            ,"replace":""
+            ,"greedy":true
+        }
+    }
+}
