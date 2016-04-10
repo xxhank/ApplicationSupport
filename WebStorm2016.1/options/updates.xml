@@ -1,0 +1,24 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <knownUpdateChannels>
+      <item value="WI1" />
+      <item value="WI2" />
+      <item value="WI3" />
+      <item value="WI4" />
+      <item value="WI5" />
+      <item value="WS6" />
+      <item value="WS7" />
+      <item value="WS8" />
+      <item value="WS9" />
+      <item value="WS10" />
+      <item value="WS11" />
+      <item value="2016.1" />
+      <item value="EAP" />
+    </knownUpdateChannels>
+    <ignoredBuildNumbers>
+      <item value="145.597" />
+    </ignoredBuildNumbers>
+    <option name="LAST_TIME_CHECKED" value="1460298200363" />
+    <option name="LAST_BUILD_CHECKED" value="WS-145.258" />
+  </component>
+</application>

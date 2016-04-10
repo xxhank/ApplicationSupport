@@ -1,0 +1,44 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="Tests" values="config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.ssh.enabled" collectionTime="1460295101776" />
+      <project id="Test3" values="config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.ssh.enabled,data.remote.branches.count.1,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,data.remotes.in.project.1" collectionTime="1460298390806" />
+    </group>
+    <group name="vcs">
+      <project id="Test3" values="Git" collectionTime="1460298390782" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="Tests" values="ECMAScript 5.1" collectionTime="1460295101833" />
+      <project id="Test3" values="ECMAScript 5.1" collectionTime="1460298390856" />
+    </group>
+    <group name="file-type">
+      <project id="Tests" values="PLAIN_TEXT,JavaScript" collectionTime="1460295101772" />
+      <project id="Test3" values="YAML,PLAIN_TEXT,CoffeeScript,Native,JavaScript,DTD,C++,PATCH,CSS,SourceMap,ARCHIVE,ESLint,XML,Handlebars/Mustache,JSON,Images,JSHint,HTML,UNKNOWN,JSCS,Jade" collectionTime="1460298390802" />
+    </group>
+    <group name="module type">
+      <project id="Tests" values="WEB_MODULE" collectionTime="1460295101759" />
+      <project id="Test3" values="WEB_MODULE" collectionTime="1460298390782" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="Tests" values="Project,Project" collectionTime="1460295101833" />
+      <project id="Test3" values="Project,Project,Project" collectionTime="1460298390856" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="ide.settings.Appearance" count="19" />
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="5" />
+      <entry feature="ide.settings.Console_Font" count="2" />
+      <entry feature="ide.settings.Font" count="4" />
+      <entry feature="ide.settings.General" count="8" />
+      <entry feature="ide.settings.JavaScript" count="4" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Postfix_Completion" count="1" />
+      <entry feature="ide.settings.Vagrant" count="1" />
+      <entry feature="ideaapp.started" count="7" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
+      <entry feature="welcome.screen.null" count="1" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,11 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1200" x="746" y="240" />
+    <location key="WELCOME_SCREEN.0.0.1920.1200" x="957" y="230" />
+    <location key="SettingsEditor.0.0.1920.1200" x="668" y="183" />
+    <location key="findTextDialog.0.0.1920.1200" x="766" y="369" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1920.1200" x="524" y="255" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1200" x="966" y="482" />
+    <size key="SettingsEditor.0.0.1920.1200" width="1017" height="671" />
+  </component>
+</application>

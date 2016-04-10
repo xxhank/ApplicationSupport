@@ -1,0 +1,15 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/Applications/Appium.app/Contents/Resources/node/bin/node">
+      <version-cache version="0.12.7" last-modified="1444645874000" />
+      <npm-package value="/Applications/Appium.app/Contents/Resources/node/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.10.1/bin/node">
+      <version-cache version="5.10.1" last-modified="1459893162000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="5.10.1" last-modified="1459893162000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+</application>

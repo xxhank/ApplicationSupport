@@ -1,0 +1,42 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/feature/TableViewDemo/TableViewDemo/Appium/Test3" />
+        <option value="$USER_HOME$/workspace/feature/TableViewDemo/TableViewDemo/Appium/Tests" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/feature/TableViewDemo/TableViewDemo/Appium/Test3" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/workspace/feature/TableViewDemo/TableViewDemo/Appium/Test3" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/workspace/feature/TableViewDemo/TableViewDemo/Appium/Test3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-145.258" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460299137050" />
+              <option name="buildTimestamp" value="1458057600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/feature/TableViewDemo/TableViewDemo/Appium/Tests">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-145.258" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460295095183" />
+              <option name="buildTimestamp" value="1458057600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
